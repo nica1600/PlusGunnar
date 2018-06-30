@@ -151,6 +151,33 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\img\architecture-3095716_1920.jpg" />
+    <Content Include="Content\img\book-1659717_1920.jpg" />
+    <Content Include="Content\img\CVMe.JPG" />
+    <Content Include="Content\img\diary-968603_1920.jpg" />
+    <Content Include="Content\img\elegance-1937967_1920.png" />
+    <Content Include="Content\img\favicon-hus.png" />
+    <Content Include="Content\img\frame-1192309_1920.png" />
+    <Content Include="Content\img\frame-1192310_1920.png" />
+    <Content Include="Content\img\frame-1192312_1920.png" />
+    <Content Include="Content\img\frame-1192320_1920.png" />
+    <Content Include="Content\img\frame-1455499_1920.png" />
+    <Content Include="Content\img\frame-1978727_1920.png" />
+    <Content Include="Content\img\frame-1978734_1920.png" />
+    <Content Include="Content\img\frame-1992103_1920.png" />
+    <Content Include="Content\img\frame-2486643_1920.png" />
+    <Content Include="Content\img\frame-3109898_1920.png" />
+    <Content Include="Content\img\frame-928206_1920.png" />
+    <Content Include="Content\img\grammatiklaxenlogo.jpg" />
+    <Content Include="Content\img\learning-3245793_1920.jpg" />
+    <Content Include="Content\img\NCProfil20180609.jpg" />
+    <Content Include="Content\img\png-2663750_1920.png" />
+    <Content Include="Content\img\social-1834011_1920.png" />
+    <Content Include="Content\img\social-1834013_1920.png" />
+    <Content Include="Content\img\social-1834016_1920.png" />
+    <Content Include="Content\img\texture-1261944_1280.png" />
+    <Content Include="Content\img\twitter-2430933_1280.png" />
+    <Content Include="Content\img\typewriter-801921_1920.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -182,8 +209,6 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
