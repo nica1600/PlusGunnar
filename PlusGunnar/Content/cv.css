@@ -1,0 +1,73 @@
+﻿
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 25%;
+    padding-right: 25%;
+    background-color: darkolivegreen;
+    background-image: url(img/typewriter-801921_1920.jpg);
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+@media (max-width: 992px) {
+    body {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+h1, h2, h3, h4, p {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    color: black;
+}
+
+p {
+    font-size: 20px;
+}
+
+img#CVProfilbild {
+    width: 150px;
+}
+
+img#CVAppleTeacher {
+    width: 200px;
+}
+
+.cv-div {
+    margin: 20px;
+    padding: 40px;
+    background-color: floralwhite;
+    box-shadow: 5px 5px 5px black;
+}
+
+@media (max-width: 992px) {
+    #cv-head-div, #CVProfilbildDiv {
+        text-align: center;
+    }
+}
+
+@media (max-width: 992px) {
+    .invisible {
+        display: none;
+    }
+}
