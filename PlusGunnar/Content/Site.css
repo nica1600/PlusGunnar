@@ -44,6 +44,18 @@ h1, h2, h3, h4, p {
     }
 }
 
+.pg-hide {
+    display: none;
+}
+
+@media (max-width: 992px) {
+    .pg-hide {
+        display: block;
+        font-size: 16px;
+        margin-top: 5px;
+    }
+}
+
 .pg-king {
     margin-bottom: 100px;
     padding: 5px;
@@ -111,7 +123,7 @@ h1, h2, h3, h4, p {
 @media (max-width: 992px) {
     .pg-link2 {
         margin-top: 20px;
-        padding: 40px 20px 10px 20px;
+        padding: 40px 20px 0px 20px;
         height: 220px;
         background-image: none;
     }
@@ -146,7 +158,7 @@ h1, h2, h3, h4, p {
 @media (max-width: 992px) {
     .pg-link3 {
         margin-top: 20px;
-        padding: 20px;
+        padding: 35px;
         height: 220px;
         background-image: none;
         -webkit-transform: rotateZ(-2deg);
@@ -187,7 +199,7 @@ h1, h2, h3, h4, p {
         padding-top: 10px;
         padding-left: 20px;
         padding-right: 20px;
-        padding-bottom: 40px;
+        padding-bottom: 50px;
         height: 220px;
         background-image: none;
     }
@@ -221,7 +233,7 @@ h1, h2, h3, h4, p {
 @media (max-width: 992px) {
     .pg-link5 {
         margin-top: 20px;
-        padding: 20px;
+        padding: 40px;
         height: 220px;
         background-image: none;
         border-radius: 0%;
@@ -257,7 +269,7 @@ h1, h2, h3, h4, p {
 @media (max-width: 992px) {
     .pg-link6 {
         margin-top: 20px;
-        padding: 20px 30px 30px 30px;
+        padding: 20px 30px 50px 30px;
         height: 220px;
         background-image: none;
         -webkit-transform: rotateZ(-2deg);
