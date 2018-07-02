@@ -249,15 +249,15 @@ h1, h2, h3, h4, p {
     background-size: 100% 100%;
     background-repeat: no-repeat;
     box-shadow: 10px 10px 10px black;
-    -webkit-transform: rotateZ(-4deg);
-    -ms-transform: rotateZ(-4deg);
-    transform: rotateZ(-4deg);
+    -webkit-transform: rotateZ(-3deg);
+    -ms-transform: rotateZ(-3deg);
+    transform: rotateZ(-3deg);
 }
 
     .pg-link6:hover {
-        -webkit-transform: rotateZ(-2deg);
-        -ms-transform: rotateZ(-2deg);
-        transform: rotateZ(-2deg);
+        -webkit-transform: rotateZ(-1deg);
+        -ms-transform: rotateZ(-1deg);
+        transform: rotateZ(-1deg);
     }
 
 @media (max-width: 1205px) {
@@ -272,9 +272,6 @@ h1, h2, h3, h4, p {
         padding: 20px 30px 50px 30px;
         height: 220px;
         background-image: none;
-        -webkit-transform: rotateZ(-2deg);
-        -ms-transform: rotateZ(-2deg);
-        transform: rotateZ(-2deg);
     }
 }
 
