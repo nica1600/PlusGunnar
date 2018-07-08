@@ -47,6 +47,7 @@ p {
 
 img#CVProfilbild {
     width: 150px;
+    box-shadow:  2px 2px 2px grey;
 }
 
 img#CVAppleTeacher {
